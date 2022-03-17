@@ -1,18 +1,8 @@
-### Hi there 👋
+### Hi, I'm Minh 👋
 
-Coding ＞︿＜
-
-Ehe Te Nandayo! (￣^￣)
+Coding & Blender 
 
 ## **📫 Contact**
-
-- [LinkedIn](https://www.linkedin.com/in/trickstarcandina/)
-
-- [YouTube channel](https://www.youtube.com/channel/UCz7dlZOH5a3J_cfssIdNt9w) 
-
-- [Facebook](https://www.facebook.com/100009538187924)
-
-- [My server discord](https://discord.gg/7A7NVc5HZf) (Name Discord: Trickstar#9586)
 
 ## ❤ A few things I love
 
@@ -26,6 +16,7 @@ Ehe Te Nandayo! (￣^￣)
 <img align="left" alt="Spring" src="https://user-images.githubusercontent.com/61593963/136700303-6dfcf610-198d-4a70-b975-97adfa891dbb.png" width="100px"/>
 <img align="left" alt="NodeJS" src="https://user-images.githubusercontent.com/61593963/136700375-22c3548e-8cb9-4eac-a857-06fb0da7d7e6.png" width="100px" />
 <img align="left" alt="ReactJS" src="https://user-images.githubusercontent.com/61593963/136700411-7149ff3d-f6b3-4f34-8b7c-4ae8a2488509.png" width="100px" />
+<img align="left" alt="Python" src="https://user-images.githubusercontent.com/90555602/158729662-58285f4e-daab-448c-8008-15657b272970.png" width="100px" />
 <br />
 
 ### Databases
