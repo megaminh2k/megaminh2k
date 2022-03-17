@@ -15,8 +15,6 @@ Coding & Blender
 
 ### Frameworks
 <img align="left" alt="Spring" src="https://user-images.githubusercontent.com/61593963/136700303-6dfcf610-198d-4a70-b975-97adfa891dbb.png" width="100px"/>
-<img align="left" alt="NodeJS" src="https://user-images.githubusercontent.com/61593963/136700375-22c3548e-8cb9-4eac-a857-06fb0da7d7e6.png" width="100px" />
-<img align="left" alt="ReactJS" src="https://user-images.githubusercontent.com/61593963/136700411-7149ff3d-f6b3-4f34-8b7c-4ae8a2488509.png" width="100px" />
 <img align="left" alt="ReactJS" src="https://user-images.githubusercontent.com/90555602/158729893-cbe11b76-809d-43b1-b3d1-a8e1532770aa.png" width="100px" />
 <br />
 
