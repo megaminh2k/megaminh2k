@@ -1,6 +1,6 @@
 ### Hi, I'm Minh 👋
 
-Coding & Blender 
+IT student 
 
 ## **📫 Contact**
 
@@ -19,7 +19,7 @@ Coding & Blender
 <br />
 
 ### Databases
-<img align="left" alt="MySQL" src="https://user-images.githubusercontent.com/61593963/136699898-0e99be87-b485-4e8c-9844-ab88d51ac265.png" width="100px"/>
+<img align="left" alt="MySQL" src="https://user-images.githubusercontent.com/61593963/136699898-0e99be87-b485-4e8c-9844-ab88d51ac265.png" height="35px"/>
 <br />
 <br />
 
