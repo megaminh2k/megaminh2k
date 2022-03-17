@@ -2,6 +2,8 @@
 
 IT student 
 
+Just gotta keep moving forward!!! Tatakae my friends 🤣🤣🤣
+
 ## **📫 Contact**
 
 ## ❤ A few things I love
