@@ -10,13 +10,13 @@ Coding & Blender
 <img align="left" alt="Java" src="https://user-images.githubusercontent.com/61593963/136700945-8072d35a-e2bc-4f5f-b881-be3f049a43f7.png" width="50px"/>
 <img align="left" alt="JS" src="https://user-images.githubusercontent.com/61593963/136700526-74ef3f4e-8f8f-4847-868b-f971d61ed602.png" width="36px" />
 <img align="left" alt="C++" src="https://user-images.githubusercontent.com/61593963/136700643-46456e4d-cb1f-4828-b465-10e42230aa0b.png" width="36px" />
+<img align="left" alt="Python" src="https://user-images.githubusercontent.com/90555602/158729662-58285f4e-daab-448c-8008-15657b272970.png" width="100px" />
 <br />
 
 ### Frameworks
 <img align="left" alt="Spring" src="https://user-images.githubusercontent.com/61593963/136700303-6dfcf610-198d-4a70-b975-97adfa891dbb.png" width="100px"/>
 <img align="left" alt="NodeJS" src="https://user-images.githubusercontent.com/61593963/136700375-22c3548e-8cb9-4eac-a857-06fb0da7d7e6.png" width="100px" />
 <img align="left" alt="ReactJS" src="https://user-images.githubusercontent.com/61593963/136700411-7149ff3d-f6b3-4f34-8b7c-4ae8a2488509.png" width="100px" />
-<img align="left" alt="Python" src="https://user-images.githubusercontent.com/90555602/158729662-58285f4e-daab-448c-8008-15657b272970.png" width="100px" />
 <br />
 
 ### Databases
