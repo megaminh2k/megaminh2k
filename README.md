@@ -7,8 +7,8 @@ Coding & Blender
 ## ❤ A few things I love
 
 ### Languages
-<img align="left" alt="Java" src="https://user-images.githubusercontent.com/61593963/136700945-8072d35a-e2bc-4f5f-b881-be3f049a43f7.png" width="50px"/>
-<!-- <img align="left" alt="JS" src="https://user-images.githubusercontent.com/61593963/136700526-74ef3f4e-8f8f-4847-868b-f971d61ed602.png" width="36px" /> -->
+<img align="left" alt="Java" src="https://user-images.githubusercontent.com/61593963/136700945-8072d35a-e2bc-4f5f-b881-be3f049a43f7.png" width="50px" height ="50"/>
+<!-- <img align="left" alt="JS" src="https://user-images.githubusercontent.com/61593963/136700526-74ef3f4e-8f8f-4847-868b-f971d61ed602.png" width="36px" height ="50" /> -->
 <img align="left" alt="C++" src="https://user-images.githubusercontent.com/61593963/136700643-46456e4d-cb1f-4828-b465-10e42230aa0b.png" width="36px" />
 <img align="left" alt="Python" src="https://user-images.githubusercontent.com/90555602/158729662-58285f4e-daab-448c-8008-15657b272970.png" width="100px" />
 <br />
