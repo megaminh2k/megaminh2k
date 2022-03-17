@@ -14,8 +14,8 @@ Coding & Blender
 <br />
 
 ### Frameworks
-<img align="left" alt="Spring" src="https://user-images.githubusercontent.com/61593963/136700303-6dfcf610-198d-4a70-b975-97adfa891dbb.png" height="40px"/>
-<img align="left" alt="ReactJS" src="https://user-images.githubusercontent.com/90555602/158729893-cbe11b76-809d-43b1-b3d1-a8e1532770aa.png" height="40px" />
+<img align="left" alt="Spring" src="https://user-images.githubusercontent.com/61593963/136700303-6dfcf610-198d-4a70-b975-97adfa891dbb.png" height="35px"/>
+<img align="left" alt="ReactJS" src="https://user-images.githubusercontent.com/90555602/158729893-cbe11b76-809d-43b1-b3d1-a8e1532770aa.png" height="35px" />
 <br />
 
 ### Databases
