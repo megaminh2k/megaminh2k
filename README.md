@@ -26,7 +26,7 @@ Coding & Blender
 <br />
 
 ### Card Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trickstarcandina&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=megaminh2k)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- ### Top Langs
